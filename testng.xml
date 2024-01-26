@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/mailt/IdeaProjects/ThirdProject/SecondProject/src/main/java/com/edureka/BaseValidation.java"><classes><class name="com.edureka.BaseValidation"><methods><include name="urlValidation"/></methods></class></classes></test></suite>
